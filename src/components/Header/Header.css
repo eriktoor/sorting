@@ -1,0 +1,22 @@
+.nav-item-padding {
+    /* margin: 100px; */
+}
+
+
+
+
+
+.array-container {
+    position: absolute;
+    width: 100%; 
+
+  }
+  
+  .array-bar {
+    display: inline-block;
+    margin: 0 1px;
+    background-color: blue; 
+  } 
+
+
+  
